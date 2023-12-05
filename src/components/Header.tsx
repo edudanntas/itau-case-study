@@ -10,7 +10,7 @@ const Header = () => {
     return (
         <header className='w-full flex items-center h-20'>
             <div className='bg-primary-orange w-[80%] px-10 h-full flex items-center'>
-                <nav className='w-full max-w-[1246px] mx-auto flex items-center justify-between'>
+                <nav className='w-full max-w-[1246px] mx-auto flex items-center justify-between px-[90px]'>
                     <div>
                         <div className='flex items-center gap-14'>
                             <Image
